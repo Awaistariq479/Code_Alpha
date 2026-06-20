@@ -61,4 +61,5 @@ Secure coding practices are essential for developing safe and reliable applicati
 CodeAlpha Cyber Security Internship
 
 ## Author
-Your Name
+Awais Tariq
+
